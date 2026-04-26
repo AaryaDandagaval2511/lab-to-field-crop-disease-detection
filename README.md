@@ -16,7 +16,7 @@ This project studies domain shift in crop disease classification between lab (Pl
 ## Setup
 
 1. Clone the repo:
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/AaryaDandagaval2511/lab-to-field-crop-disease-detection.git
 
 2. Install dependencies:
    pip install -r requirements.txt
