@@ -1,5 +1,31 @@
+# Python
 __pycache__/
+*.pyc
+
+# Models
 *.pt
 *.pth
-*.ipynb_checkpoints
+*.ckpt
+checkpoints/
+
+# Data
+data/
+dataset/
+PlantVillage/
+PlantDoc/
+*.zip
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Env
 .env
+venv/
+
+# Logs / outputs
+logs/
+outputs/
+*.log
+
+# System
+.DS_Store
